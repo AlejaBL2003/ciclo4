@@ -1,0 +1,6 @@
+com\cuatro\Reto1\repository\UserRepository.class
+com\cuatro\Reto1\controller\UserController.class
+com\cuatro\Reto1\service\UserService.class
+com\cuatro\Reto1\model\User.class
+com\cuatro\Reto1\repository\crud\UserCrudRepository.class
+com\cuatro\Reto1\Reto1Application.class
